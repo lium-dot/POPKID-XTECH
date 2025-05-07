@@ -2,7 +2,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "POPKID$uKyTN3M0",
+  SESSION_ID: process.env.SESSION_ID || "POPKID~R5QWTCKA#p3MGwz3is4Ts86iUC3NpOTSlwFkIpdWVQWgDaxCtdow",
   PREFIX: process.env.PREFIX || '.',
   AUTO_TYPING: process.env.AUTO_TYPING !== undefined ? process.env.AUTO_TYPING === 'true' : false,
   AUTO_RECORDING: process.env.AUTO_RECORDING !== undefined ? process.env.AUTO_RECORDING === 'true' : false, 
@@ -19,8 +19,8 @@ const config = {
   BOT_NAME: process.env.BOT_NAME || "Sarkar",
   DELETE_PATH: process.env.DELETE_PATH || "pm",
   MODE: process.env.MODE || "public",
-  OWNER_NAME: process.env.OWNER_NAME || "POPKID",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
+  OWNER_NAME: process.env.OWNER_NAME || "★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254758443111",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
 
