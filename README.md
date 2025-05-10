@@ -18,7 +18,7 @@
 
 # 🤍 ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
 </a></p>
-- <a href="https://popkidxmdsessionsiteclim.onrender.com"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/LOG IN FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
+- <a href="https://popkid-sessions-r19s.onrender.com"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/LOG IN FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
 
 # 💝 ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ
 
@@ -26,7 +26,7 @@
 - <a href='https://signup.heroku.com/' target="_silver"><img alt='Heroku' src='https://img.shields.io/badge/-𝐂𝐑𝐄𝐀𝐓𝐄 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐍𝐎𝐖-rgb(224, 255, 255)?style=for-the-badge&logo=ferrari&logoColor=pink' width="240" height="38.45"/></a>
 
 # 🧡 ʜᴇʀᴏᴋᴜ ʜᴏsᴛɪɴɢ
-- <a align="center"><a href="https://tinyurl.com/yc3ae75m"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
+- <a align="center"><a href="https://tinyurl.com/3jp3dvbf"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
 
 
 ## 💖 CONTACT ME
