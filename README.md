@@ -1,7 +1,7 @@
 <!-- POPKID XTECH Stylish README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=40&pause=1000&color=00FF7F&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" alt="Divider" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=40&pause=1000&color=00FF7F&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" alt="🥱🎈💯" />
 </p>
 
 <p align="center">
