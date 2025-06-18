@@ -1,26 +1,26 @@
-<!-- 💎 POPKID XTECH – Final Polished README 💎 -->
+<!-- 💎 POPKID XTECH – Final Clean README 💎 -->
 
 <!-- 💠 Stylish Divider -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=40&pause=1000&color=00FF7F&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" style="border: none;" />
-</p>
+<div align="center" style="margin-bottom: -10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=40&pause=1000&color=00FF7F&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" style="display: block;" />
+</div>
 
 <!-- 🛡️ Main Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=POPKID-+XTECH+BOT" />
-</p>
+<div align="center" style="margin-top: -30px; margin-bottom: -20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=POPKID-+XTECH+BOT" style="display: block;" />
+</div>
 
 <!-- 🎯 Slogan -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=POPKID+XTECH+TEAM+|+KEEP+USING+POPKID+MD" />
-</p>
+<div align="center" style="margin-top: -20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=POPKID+XTECH+TEAM+|+KEEP+USING+POPKID+MD" style="display: block;" />
+</div>
 
-<!-- 📸 Channel Image -->
-<p align="center">
+<!-- 📸 Banner -->
+<div align="center" style="margin-top: 0;">
   <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
-    <img src="https://files.catbox.moe/nzk037.jpg" width="350" />
+    <img src="https://files.catbox.moe/nzk037.jpg" width="350" style="display: block;" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -70,23 +70,23 @@
 
 ## ⏱️ Live Server Stats
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=popkiddevs&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
 ## 💬 Contact the Developer
 
-<p align="center">
+<div align="center">
   <a href="https://wa.me/+254111385747">
     <img src="https://img.shields.io/badge/Contact%20Popkid%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
 <!-- 💖 Thank You Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=30&pause=1000&color=FF69B4&center=true&width=800&lines=Thanks+For+Using+POPKID+XTECH+BOT+💖" style="border: none;" />
-</p>
+<div align="center" style="margin-top: -10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=30&pause=1000&color=FF69B4&center=true&width=800&lines=Thanks+For+Using+POPKID+XTECH+BOT+💖" style="display: block;" />
+</div>
