@@ -1,24 +1,26 @@
-<!-- 💎 POPKID XTECH – Pro-Level README Design 💎 -->
+<!-- 💎 POPKID XTECH – Final Polished README 💎 -->
 
+<!-- 💠 Stylish Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=40&pause=1000&color=00FF7F&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" 
+  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=40&pause=1000&color=00FF7F&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" style="border: none;" />
 </p>
 
+<!-- 🛡️ Main Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=POPKID-+XTECH+BOT" alt="Bot Logo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=POPKID-+XTECH+BOT" />
 </p>
 
+<!-- 🎯 Slogan -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=POPKID+XTECH+TEAM+|+KEEP+USING+POPKID+MD" alt="Team Slogan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=POPKID+XTECH+TEAM+|+KEEP+USING+POPKID+MD" />
 </p>
 
+<!-- 📸 Channel Image -->
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
-    <img src="https://files.catbox.moe/nzk037.jpg" alt="Popkid Banner" width="350" />
+    <img src="https://files.catbox.moe/nzk037.jpg" width="350" />
   </a>
 </p>
-
-<br>
 
 ---
 
@@ -48,8 +50,6 @@
 
 </div>
 
-<br>
-
 ---
 
 ## ☁️ Talkdrove Hosting
@@ -66,8 +66,6 @@
 
 </div>
 
-<br>
-
 ---
 
 ## ⏱️ Live Server Stats
@@ -75,8 +73,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=popkiddevs&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
-
-<!-- Optional: Add dynamic clock from a widget if needed -->
 
 ---
 
@@ -90,6 +86,7 @@
 
 ---
 
+<!-- 💖 Thank You Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=30&pause=1000&color=FF69B4&center=true&width=800&lines=Thanks+For+Using+POPKID+XTECH+BOT+💖" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=30&pause=1000&color=FF69B4&center=true&width=800&lines=Thanks+For+Using+POPKID+XTECH+BOT+💖" style="border: none;" />
 </p>
