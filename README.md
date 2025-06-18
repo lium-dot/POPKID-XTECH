@@ -1,21 +1,21 @@
-<!-- 💎 POPKID XTECH – Final Clean README 💎 -->
+<!-- 💎 POPKID XTECH – Refined Pro README 💎 -->
 
 <!-- 💠 Stylish Divider -->
 <div align="center" style="margin-bottom: -10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=40&pause=1000&color=00FF7F&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" style="display: block;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=▭+▬+▭+▬+🦋+POPKID+XTECH+🦋+▬+▭+▬+▭" style="display: block;" />
 </div>
 
-<!-- 🛡️ Main Title -->
-<div align="center" style="margin-top: -30px; margin-bottom: -20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=POPKID-+XTECH+BOT" style="display: block;" />
+<!-- 🛡️ Main Bot Title -->
+<div align="center" style="margin-top: -20px; margin-bottom: -10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=70&pause=900&color=FF1493&center=true&width=1000&lines=POPKID+XTECH+BOT" style="display: block;" />
 </div>
 
-<!-- 🎯 Slogan -->
-<div align="center" style="margin-top: -20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=POPKID+XTECH+TEAM+|+KEEP+USING+POPKID+MD" style="display: block;" />
+<!-- 🌟 Motto or Subtitle -->
+<div align="center" style="margin-top: -10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00CED1&center=true&width=850&lines=The+Ultimate+WhatsApp+Bot+Framework;Fast%2C+Stylish%2C+Secure%2C+Powerful" style="display: block;" />
 </div>
 
-<!-- 📸 Banner -->
+<!-- 📸 Channel Display Image -->
 <div align="center" style="margin-top: 0;">
   <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
     <img src="https://files.catbox.moe/nzk037.jpg" width="350" style="display: block;" />
@@ -88,5 +88,5 @@
 
 <!-- 💖 Thank You Footer -->
 <div align="center" style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Rockstar&size=30&pause=1000&color=FF69B4&center=true&width=800&lines=Thanks+For+Using+POPKID+XTECH+BOT+💖" style="display: block;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=FFA500&center=true&width=800&lines=Thanks+For+Using+POPKID+XTECH+BOT+💖" style="display: block;" />
 </div>
