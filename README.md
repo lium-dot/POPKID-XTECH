@@ -17,7 +17,7 @@
 
 <!-- 🖼️ Channel Image -->
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
+  <a href="https://whatsapp.com/channel/0029VbB6d0KKAwEdvcgqrH26">
     <img src="https://files.catbox.moe/nzk037.jpg" width="400" />
   </a>
 </div>
