@@ -15,6 +15,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=40E0D0&center=true&width=1100&height=100&lines=The+Ultimate+Stylish+WhatsApp+Bot;Fast+%7C+Smart+%7C+Secure+%7C+Fun" />
 </div>
 
+<!-- 🚀 Official Channel Promo Block -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=800&color=00FF7F&center=true&width=1000&height=60&lines=🚨+OFFICIAL+CHANNEL+NOW+LIVE!+🚨" />
+  
+  <a href="https://whatsapp.com/channel/0029VbB6d0KKAwEdvcgqrH26" target="_blank">
+    <img src="https://img.shields.io/badge/📲%20JOIN%20OUR%20WHATSAPP%20CHANNEL-00E676?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <br><br>
+  <p><strong>🟢 Get exclusive updates, early features, and special content</strong></p>
+  <p><strong>⚡ Tap the button above or click this link:</strong><br>
+  <a href="https://whatsapp.com/channel/0029VbB6d0KKAwEdvcgqrH26">https://whatsapp.com/channel/0029VbB6d0KKAwEdvcgqrH26</a></p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00FFD1&center=true&width=950&height=40&lines=✨+Stay+in+the+loop+with+POPKID+XTECH!+✨" />
+</div>
+
 <!-- 🖼️ Channel Image -->
 <div align="center">
   <a href="https://whatsapp.com/channel/0029VbB6d0KKAwEdvcgqrH26">
@@ -85,9 +101,7 @@
 ## 📊 STEP 4: Bot Status & Stats
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=popkiddevs&style=for-the-badge&color=blue" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=popkiddevs&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 ---
