@@ -1,20 +1,5 @@
 <!-- 🎯 POPKID XTECH – Ultimate WhatsApp Bot README -->
 
-<!-- 🔷 Stylish Intro Divider -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FF7F&center=true&width=950&height=60&lines=▭+▬+▭+▬+🦋+POPKID+XTECH+🦋+▬+▭+▬+▭" />
-</div>
-
-<!-- 🔶 Title Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=80&pause=800&color=FF69B4&center=true&width=1300&height=140&lines=🔥+POPKID+XTECH+BOT+🔥" />
-</div>
-
-<!-- 🧠 Bot Motto -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=40E0D0&center=true&width=1100&height=100&lines=The+Ultimate+Stylish+WhatsApp+Bot;Fast+%7C+Smart+%7C+Secure+%7C+Fun" />
-</div>
-
 <!-- 🚀 Official Channel Promo Block -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=800&color=00FF7F&center=true&width=1000&height=60&lines=🚨+OFFICIAL+CHANNEL+NOW+LIVE!+🚨" />
@@ -34,7 +19,7 @@
 <!-- 🖼️ Channel Image -->
 <div align="center">
   <a href="https://whatsapp.com/channel/0029VbB6d0KKAwEdvcgqrH26">
-    <img src="https://files.catbox.moe/nzk037.jpg" width="400" />
+    <img src="https://files.catbox.moe/nzk037.jpg" width="400" alt="POPKID XTECH Channel Preview" />
   </a>
 </div>
 
@@ -87,11 +72,11 @@
 <div align="center">
 
 <a href="https://host.talkdrove.com/auth/signup?ref=F3E97634">
-  <img src="https://img.shields.io/badge/📝%20SIGNUP%20FOR%20TALKDROVE-grey?style=for-the-badge&logo=talkdrove&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/📝%20SIGNUP%20FOR%20TALKDROVE-grey?style=for-the-badge&logo=rocket&logoColor=white&labelColor=black" />
 </a>&nbsp;
 
 <a href="https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=53" target="_blank">
-  <img src="https://img.shields.io/badge/🔥%20DEPLOY%20TO%20TALKDROVE-orange?style=for-the-badge&logo=talkdrove&logoColor=orange&labelColor=black" />
+  <img src="https://img.shields.io/badge/🔥%20DEPLOY%20TO%20TALKDROVE-orange?style=for-the-badge&logo=rocket&logoColor=orange&labelColor=black" />
 </a>
 
 </div>
@@ -119,6 +104,6 @@
 ---
 
 <!-- 🌈 Thank You Footer -->
-<div align="center" style="margin-top: 0;">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=34&pause=1000&color=FFA500&center=true&width=1000&height=65&lines=🙏+Thanks+for+using+POPKID+XTECH+Bot+❤️" />
 </div>
