@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "POPKID;;;qAADBY5S#kChdcIJnhZOxO5iheEp4RazrsrSlBfd1Dq67YwcORgE",
+SESSION_ID: process.env.SESSION_ID || "POPKID;;;vU8wmbpQ#yernLUbFZC7j7PxBUp6MDVy6Yipe4pO__rJnVeqZcHU",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -21,9 +21,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/tMZ8f8cG/file-11
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || "∆",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "POPKID-MD",
+BOT_NAME: process.env.BOT_NAME || "®✞Ⓞℙ $ᏕĦⓄ✞∃ℝ☠︎︎",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "MR ΛĿĿƐИ",
+STICKER_NAME: process.env.STICKER_NAME || "®✞Ⓞℙ $ᏕĦⓄ✞∃ℝ☠︎︎",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -33,13 +33,13 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "254758443111",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "MR ΛĿĿƐИ",
+OWNER_NAME: process.env.OWNER_NAME || "ƓƐИZ ҠƐИYΛ ΛĿĿƐИ",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ṖᎾᏯƐŔƐD ΛИD DƐṖĿᎾYƐD ßY ƓƐИZ ҠƐИYΛ ★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tkebt3.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Am Active ༒︎❥︎⚡",
+LIVE_MSG: process.env.LIVE_MSG || "® ŔƐΛĿĿY ΛĿĪ√Ɛ ΛИD ŔƐΛDY ŦᎾ F**Ҡ YᎾƱŔ SĪSŦƐŔ㋛︎☠︎︎⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
